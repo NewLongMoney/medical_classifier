@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Project specific
+wandb/
+models/
+*.pth
+
+# System
+.DS_Store 
