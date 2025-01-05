@@ -131,6 +131,4 @@ def train_model(data_dir, num_classes, num_epochs, batch_size,
         print(f'Train Loss: {train_loss/len(train_loader):.4f}, Train Acc: {train_acc:.2f}%')
         print(f'Val Loss: {val_loss/len(val_loader):.4f}, Val Acc: {val_acc:.2f}%\n') 
 
-### Inference
-
-To make predictions on new images, use the `inference.py` script: 
+# To make predictions on new images, use the `inference.py` script: 
