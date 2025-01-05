@@ -3,4 +3,8 @@ torchvision
 tqdm
 wandb
 Pillow
-pytest 
+pytest
+numpy
+scikit-learn
+matplotlib
+seaborn 
